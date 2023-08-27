@@ -2,21 +2,21 @@
 
 ## Table of Contents
 
-1. [Introduction](#1-introduction)
-2. [Project Structure](#2-project-structure)
-3. [Routing](#3-routing)
-4. [Middleware](#4-middleware)
-5. [Controllers](#5-controllers)
-6. [Models and Repositories](#6-models-and-repositories)
-7. [Services](#7-services)
-8. [Error Handling](#8-error-handling)
-9. [Validation](#9-validation)
-10. [Testing](#10-testing)
-11. [Security](#11-security)
-12. [Performance](#12-performance)
-13. [Package Management](#13-package-management)
-14. [Adding License and Copyright Notice](#14-adding-license-and-copyright-notice)
-15. [Conclusion](#15-conclusion)
+1. [Introduction](#1.-introduction)
+2. [Project Structure](#2.-project-structure)
+3. [Routing](#3.-routing)
+4. [Middleware](#4.-middleware)
+5. [Controllers](#5.-controllers)
+6. [Models and Repositories](#6.-models-and-repositories)
+7. [Services](#7.-services)
+8. [Error Handling](#8.-error-handling)
+9. [Validation](#9.-validation)
+10. [Testing](#10.-testing)
+11. [Security](#11.-security)
+12. [Performance](#12.-performance)
+13. [Package Management](#13.-package-management)
+14. [Adding License and Copyright Notice](#14.-adding-license-and-copyright-notice)
+15. [Conclusion](#15.-conclusion)
 
 ## 1. Introduction
 
