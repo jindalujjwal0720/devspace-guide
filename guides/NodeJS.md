@@ -2,17 +2,17 @@
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
-2. [Naming Conventions](#naming-conventions)
-3. [Indentation and Formatting](#indentation-and-formatting)
-4. [Comments and Documentation](#comments-and-documentation)
-5. [Modules and Imports](#modules-and-imports)
-6. [Asynchronous Programming](#asynchronous-programming)
-7. [Error Handling](#error-handling)
-8. [Testing](#testing)
-9. [Package Management](#package-management)
-10. [Adding License and Copyright Notice](#adding-license-and-copyright-notice)
-11. [Conclusion](#conclusion)
+1. [Introduction](#1.-introduction)
+2. [Naming Conventions](#2.-naming-conventions)
+3. [Indentation and Formatting](#3.-indentation-and-formatting)
+4. [Comments and Documentation](#4.-comments-and-documentation)
+5. [Modules and Imports](#5.-modules-and-imports)
+6. [Asynchronous Programming](#6.-asynchronous-programming)
+7. [Error Handling](#7.-error-handling)
+8. [Testing](#8.-testing)
+9. [Package Management](#9.-package-management)
+10. [Adding License and Copyright Notice](#10.-adding-license-and-copyright-notice)
+11. [Conclusion](#11.-conclusion)
 
 ## 1. Introduction
 
