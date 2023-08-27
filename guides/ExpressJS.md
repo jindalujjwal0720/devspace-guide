@@ -211,7 +211,6 @@ For every source code file in your Express.js project, include a license and cop
 ```javascript
 /*
  * Devspace IIT(ISM) Dhanbad
- * Express.js Coding Guidelines and Style Guide
  *
  * This software and related documentation are owned by Devspace IIT(ISM) Dhanbad.
  * Unauthorized copying, reproduction, or modification via any medium is strictly prohibited.
